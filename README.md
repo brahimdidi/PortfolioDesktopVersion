@@ -1,6 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+## NB: this project is only for desktop screens.
 
 # Project Name
+## You can take a look at this project by clicking here: https://brahimdidi.github.io/PortfolioDesktopVersion/
 
 > One paragraph statement about the project.
 
